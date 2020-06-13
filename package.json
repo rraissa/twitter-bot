@@ -1,0 +1,19 @@
+{
+  "name": "jkbot",
+  "version": "1.0.0",
+  "description": "It's a test",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "myself",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {}
+}
